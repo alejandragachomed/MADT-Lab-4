@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">MADT-Lab-4</string>
+    <string name="app_name">NOTES APP</string>
+    <string name="app_subtitle">Notes</string>
 </resources>
